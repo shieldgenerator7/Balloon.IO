@@ -1,3 +1,14 @@
+#Project Folders
+Temp/
+Obj/
+UnityGenerated/
+Library/
+Assets/UnityTestTools/
+Assets/Editor/
+Assets/StandardAssets/
+Assets/ExplosionForce2D/
+
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
@@ -45,3 +56,11 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.csproj
+*.sln
+.vs/Stoned/v14/.suo
+.vs/Stoned/v14/.suo
+Assets/UnityTestTools.meta
+Assets/Editor.meta
+Assets/StandardAssets.meta
+Assets/ExplosionForce2D.meta
